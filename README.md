@@ -85,7 +85,7 @@ Nome campo | Descrizione | Formato | Esempio |
 - [Comuni Italiani - progetto Open Data Sicilia](https://github.com/opendatasicilia/comuni-italiani)
 
 ## Licenza
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/opendatasicilia//blob/master/LICENSE)
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/opendatasicilia/DPC-bollettini-criticita-idrogeologica-idraulica/blob/main/LICENSE)
 
 ## Note
 Il Dipartimento della Protezione Civile (DPC) rilascia il bollettino delle allerte di criticità nazionale, rischio idrogeologico, idraulico, temporali **una volta al giorno** poco prima delle ore **16.00**. Nel caso di variazioni e/o aggiornamenti il DPC può pubblicare ulteriori bollettini; per questo motivo questo progetto verificherà ogni `4 ore` gli eventuali bollettini di aggiornamento.
