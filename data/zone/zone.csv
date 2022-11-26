@@ -1,0 +1,171 @@
+zona_codice,zona_nome
+Abru-A,Bacini Tordino Vomano
+Abru-B,Bacino dell'Aterno
+Abru-C,Bacino del Pescara
+Abru-D1,Bacino Alto del Sangro
+Abru-D2,Bacino Basso del Sangro
+Abru-E,Marsica
+Basi-A1,Basi-A1
+Basi-A2,Basi-A2
+Basi-B,Basi-B
+Basi-C,Basi-C
+Basi-D,Basi-D
+Basi-E1,Basi-E1
+Basi-E2,Basi-E2
+Cala-1,Versante Tirrenico Settentrionale
+Cala-2,Versante Tirrenico Centro-settentrionale
+Cala-3,Versante Tirrenico Centro-meridionale
+Cala-4,Versante Tirrenico Meridionale
+Cala-5,Versante Jonico Settentrionale
+Cala-6,Versante Jonico Centro-settentrionale
+Cala-7,Versante Jionico Centro-meridionale
+Cala-8,Versante Jonico Meridionale
+Camp-1,"Piana campana, Napoli, Isole e Area vesuviana"
+Camp-2,Alto Volturno e Matese
+Camp-3,"Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini"
+Camp-4,Alta Irpinia e Sannio
+Camp-5,Tusciano e Alto Sele
+Camp-6,Piana Sele e Alto Cilento
+Camp-7,Tanagro
+Camp-8,Basso Cilento
+Emil-A1,Montagna romagnola
+Emil-A2,Alta collina romagnola
+Emil-B1,Bassa collina e pianura romagnola
+Emil-B2,Costa romagnola
+Emil-C1,Montagna bolognese
+Emil-C2,Collina bolognese
+Emil-D1,Pianura bolognese di Reno e suoi affluenti
+Emil-D2,Costa ferrarese
+Emil-D3,Pianura ferrarese di Po e Po di volano
+Emil-E1,Montagna emiliana centrale
+Emil-E2,Collina emiliana centrale
+Emil-F1,Pianura modenese di Secchia e Panaro
+Emil-F2,Pianura reggiana di Enza e Crostolo
+Emil-F3,Pianura reggiana di Po
+Emil-G1,Alta collina piacentino-parmense
+Emil-G2,Montagna piacentino-parmense
+Emil-H1,Bassa collina piacentino-parmense
+Emil-H2,Pianura piacentino-parmense
+Friu-A,Bacino del Livenza e del Lemene
+Friu-B,Bacino montano del Tagliamento e del Torre
+Friu-C,Bacino dell'Isonzo e Pianura di Udine e Gorizia
+Friu-D,Bacino di Levante / Carso
+Lazi-A,Bacini Costieri Nord
+Lazi-B,Bacino Medio Tevere
+Lazi-C,Appennino di Rieti
+Lazi-D,Bacini di Roma
+Lazi-E,Aniene
+Lazi-F,Bacini Costieri Sud
+Lazi-G,Bacino del Liri
+Ligu-A,Bacini Liguri Marittimi di Ponente
+Ligu-B,Bacini Liguri Marittimi di Centro
+Ligu-C,Bacini Liguri Marittimi di Levante
+Ligu-D,Bacini Liguri Padani di Ponente
+Ligu-E,Bacini Liguri Padani di Levante
+Lomb-01,Valchiavenna
+Lomb-02,Media-bassa Valtellina
+Lomb-03,Alta Valtellina
+Lomb-04,Laghi e Prealpi Varesine
+Lomb-05,Lario e Prealpi occidentali
+Lomb-06,Orobie bergamasche
+Lomb-07,Valcamonica
+Lomb-08,Laghi e Prealpi orientali
+Lomb-09,Nodo Idraulico di Milano
+Lomb-10,Pianura centrale
+Lomb-11,Alta pianura orientale
+Lomb-12,Bassa pianura occidentale
+Lomb-13,Bassa pianura centro-occidentale
+Lomb-14,Bassa pianura centro-orientale
+Lomb-15,Bassa pianura orientale
+Lomb-16,Appennino pavese
+Marc-1,Marc-1
+Marc-2,Marc-2
+Marc-3,Marc-3
+Marc-4,Marc-4
+Marc-5,Marc-5
+Marc-6,Marc-6
+Moli-A,Alto Volturno - Medio Sangro
+Moli-B,Frentani - Sannio - Matese
+Moli-C,Litoranea
+Piem-A,Toce
+Piem-B,"Val Sesia, Cervo e Chiusella"
+Piem-C,"Valli Orco, Lanzo e Sangone"
+Piem-D,"Valli Susa, Chisone, Pellice e Po"
+Piem-E,"Valli Varaita, Maira e Stura"
+Piem-F,Valle Tanaro
+Piem-G,Belbo e Bormida
+Piem-H,Scrivia
+Piem-I,Pianura settentrionale
+Piem-L,Pianura Torinese e Colline
+Piem-M,Pianura Cuneese
+Pugl-A,Gargano e Tremiti
+Pugl-B,"Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle"
+Pugl-C,Puglia Centrale Adriatica
+Pugl-D,Salento
+Pugl-E,Bacini del Lato e del Lenne
+Pugl-F,Puglia Centrale Bradanica
+Pugl-G,Basso Ofanto
+Pugl-H,Sub-Appennino Dauno
+Pugl-I,Basso Fortore
+Sard-A,Iglesiente
+Sard-B,Campidano
+Sard-C,Bacini Montevecchio - Pischilappiu
+Sard-D,Bacini Flumendosa - Flumineddu
+Sard-E,Bacino del Tirso
+Sard-F,Gallura
+Sard-G,Logudoro
+Sici-A,"Nord-Orientale, versante tirrenico e isole Eolie"
+Sici-B,"Centro-Settentrionale, versante tirrenico"
+Sici-C,Nord-Occidentale e isole Egadi e Ustica
+Sici-D,Sud-Occidentale e isola di Pantelleria
+Sici-E,Centro-Meridionale e isole Pelagie
+Sici-F,"Sud-Orientale, versante Stretto di Sicilia"
+Sici-G,"Sud-Orientale, versante ionico"
+Sici-H,Bacino del Fiume Simeto
+Sici-I,"Nord-Orientale, versante ionico"
+Tosc-A1,Arno-Casentino
+Tosc-A2,Arno-Valdarno Sup.
+Tosc-A3,Arno-Firenze
+Tosc-A4,Valdarno Inf.
+Tosc-A5,Valdelsa-Valdera
+Tosc-A6,Arno-Costa
+Tosc-B,Bisenzio e Ombrone Pt
+Tosc-C,Valdichiana
+Tosc-E1,Etruria
+Tosc-E2,Etruria-Costa Nord
+Tosc-E3,Etruria-Costa Sud
+Tosc-F1,Fiora e Albegna
+Tosc-F2,Fiora e Albegna-Costa e Giglio
+Tosc-I,Isole
+Tosc-L,Lunigiana
+Tosc-M,Mugello-Val di Sieve
+Tosc-O1,Ombrone Gr-Alto
+Tosc-O2,Ombrone Gr-Medio
+Tosc-O3,Ombrone Gr-Costa
+Tosc-R1,Reno
+Tosc-R2,Romagna-Toscana
+Tosc-S1,Serchio-Garfagnana-Lima
+Tosc-S2,Serchio-Lucca
+Tosc-S3,Serchio-Costa
+Tosc-T,Valtiberina
+Tosc-V,Versilia
+Tren-A,Provincia Autonoma di Bolzano
+Tren-B,Provincia Autonoma di Trento
+Umbr-A,Alto Tevere
+Umbr-B,Medio Tevere
+Umbr-C,Chiascio - Topino
+Umbr-D,Nera - Corno
+Umbr-E,Trasimeno - Nestore
+Umbr-F,Chiani - Paglia
+VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
+VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+VDAo-C,"Valle di Cogne, Valsavarenche e Valle di Rhêmes"
+VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
+Vene-A,Alto Piave
+Vene-B,Alto Brenta-Bacchiglione-Alpone
+Vene-C,Adige-Garda e monti Lessini
+Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
+Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
+Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
+Vene-G,"Livenza, Lemene e Tagliamento"
+Vene-H,Piave pedemontano
