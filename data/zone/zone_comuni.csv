@@ -4121,7 +4121,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 034019,Lesignano de' Bagni,Parma,PR,Emilia-Romagna,Emil-G2,Montagna piacentino-parmense
 034020,Medesano,Parma,PR,Emilia-Romagna,Emil-H1,Bassa collina piacentino-parmense
 034022,Monchio delle Corti,Parma,PR,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-034023,Montechiarugolo,Parma,PR,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+034023,Montechiarugolo,Parma,PR,Emilia-Romagna,Emil-F2,Pianura reggiana
 034024,Neviano degli Arduini,Parma,PR,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 034025,Noceto,Parma,PR,Emilia-Romagna,Emil-H1,Bassa collina piacentino-parmense
 034026,Palanzano,Parma,PR,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
@@ -4145,40 +4145,40 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 034050,Polesine Zibello,Parma,PR,Emilia-Romagna,Emil-H2,Pianura piacentino-parmense
 034051,Sorbolo Mezzani,Parma,PR,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
 035001,Albinea,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035002,Bagnolo in Piano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035002,Bagnolo in Piano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035003,Baiso,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035004,Bibbiano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035004,Bibbiano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035005,Boretto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
 035006,Brescello,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
-035008,Cadelbosco di Sopra,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035009,Campagnola Emilia,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035010,Campegine,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035008,Cadelbosco di Sopra,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035009,Campagnola Emilia,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035010,Campegine,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035011,Carpineti,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 035012,Casalgrande,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 035013,Casina,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 035014,Castellarano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035015,Castelnovo di Sotto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035015,Castelnovo di Sotto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035016,Castelnovo ne' Monti,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035017,Cavriago,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035017,Cavriago,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035018,Canossa,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035020,Correggio,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035021,Fabbrico,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035022,Gattatico,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035020,Correggio,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035021,Fabbrico,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035022,Gattatico,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035023,Gualtieri,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
 035024,Guastalla,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
 035026,Luzzara,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
-035027,Montecchio Emilia,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035028,Novellara,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035027,Montecchio Emilia,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035028,Novellara,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035029,Poviglio,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F3,Pianura reggiana di Po
 035030,Quattro Castella,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035032,Reggiolo,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035032,Reggiolo,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035033,Reggio nell'Emilia,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035034,Rio Saliceto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035035,Rolo,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
-035036,Rubiera,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-035037,San Martino in Rio,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035034,Rio Saliceto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035035,Rolo,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
+035036,Rubiera,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F1,Pianura modenese
+035037,San Martino in Rio,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035038,San Polo d'Enza,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-035039,Sant'Ilario d'Enza,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana di Enza e Crostolo
+035039,Sant'Ilario d'Enza,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-F2,Pianura reggiana
 035040,Scandiano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 035041,Toano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 035042,Vetto,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
@@ -4186,18 +4186,18 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 035044,Viano,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 035045,Villa Minozzo,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 035046,Ventasso,Reggio nell'Emilia,RE,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-036001,Bastiglia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036002,Bomporto,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036003,Campogalliano,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036004,Camposanto,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036005,Carpi,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036006,Castelfranco Emilia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036001,Bastiglia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036002,Bomporto,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036003,Campogalliano,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036004,Camposanto,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036005,Carpi,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036006,Castelfranco Emilia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036007,Castelnuovo Rangone,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036008,Castelvetro di Modena,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-036009,Cavezzo,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036010,Concordia sulla Secchia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036009,Cavezzo,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036010,Concordia sulla Secchia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036011,Fanano,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-036012,Finale Emilia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036012,Finale Emilia,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036013,Fiorano Modenese,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036014,Fiumalbo,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036015,Formigine,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
@@ -4206,127 +4206,127 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 036018,Lama Mocogno,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036019,Maranello,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036020,Marano sul Panaro,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-036021,Medolla,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036022,Mirandola,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036021,Medolla,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036022,Mirandola,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036023,Modena,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036024,Montecreto,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036025,Montefiorino,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036026,Montese,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-036027,Nonantola,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036028,Novi di Modena,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036027,Nonantola,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036028,Novi di Modena,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036029,Palagano,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036030,Pavullo nel Frignano,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036031,Pievepelago,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
 036032,Polinago,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036033,Prignano sulla Secchia,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-036034,Ravarino,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036034,Ravarino,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036035,Riolunato,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-036036,San Cesario sul Panaro,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036037,San Felice sul Panaro,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036038,San Possidonio,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
-036039,San Prospero,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036036,San Cesario sul Panaro,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036037,San Felice sul Panaro,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036038,San Possidonio,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
+036039,San Prospero,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036040,Sassuolo,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036041,Savignano sul Panaro,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036042,Serramazzoni,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036043,Sestola,Modena,MO,Emilia-Romagna,Emil-E1,Montagna emiliana centrale
-036044,Soliera,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+036044,Soliera,Modena,MO,Emilia-Romagna,Emil-F1,Pianura modenese
 036045,Spilamberto,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036046,Vignola,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
 036047,Zocca,Modena,MO,Emilia-Romagna,Emil-E2,Collina emiliana centrale
-037001,Anzola dell'Emilia,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037002,Argelato,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037003,Baricella,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037005,Bentivoglio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037001,Anzola dell'Emilia,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037002,Argelato,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037003,Baricella,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037005,Bentivoglio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037006,Bologna,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037007,Borgo Tossignano,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037008,Budrio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037009,Calderara di Reno,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037008,Budrio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037009,Calderara di Reno,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037010,Camugnano,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
 037011,Casalecchio di Reno,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037012,Casalfiumanese,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037013,Castel d'Aiano,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
 037014,Castel del Rio,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037015,Castel di Casio,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
-037016,Castel Guelfo di Bologna,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037017,Castello d'Argile,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037019,Castel Maggiore,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037016,Castel Guelfo di Bologna,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037017,Castello d'Argile,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037019,Castel Maggiore,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037020,Castel San Pietro Terme,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037021,Castenaso,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037021,Castenaso,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037022,Castiglione dei Pepoli,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
-037024,Crevalcore,Bologna,BO,Emilia-Romagna,Emil-F1,Pianura modenese di Secchia e Panaro
+037024,Crevalcore,Bologna,BO,Emilia-Romagna,Emil-F1,Pianura modenese
 037025,Dozza,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037026,Fontanelice,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037027,Gaggio Montano,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
-037028,Galliera,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037030,Granarolo dell'Emilia,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037028,Galliera,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037030,Granarolo dell'Emilia,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037031,Grizzana Morandi,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037032,Imola,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037033,Lizzano in Belvedere,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
 037034,Loiano,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037035,Malalbergo,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037035,Malalbergo,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037036,Marzabotto,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037037,Medicina,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037038,Minerbio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037039,Molinella,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037037,Medicina,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037038,Minerbio,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037039,Molinella,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037040,Monghidoro,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
 037041,Monterenzio,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037042,Monte San Pietro,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037044,Monzuno,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037045,Mordano,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037045,Mordano,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037046,Ozzano dell'Emilia,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037047,Pianoro,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037048,Pieve di Cento,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037050,Sala Bolognese,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037048,Pieve di Cento,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037050,Sala Bolognese,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037051,San Benedetto Val di Sambro,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
-037052,San Giorgio di Piano,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037053,San Giovanni in Persiceto,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037052,San Giorgio di Piano,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037053,San Giovanni in Persiceto,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037054,San Lazzaro di Savena,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
-037055,San Pietro in Casale,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-037056,Sant'Agata Bolognese,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+037055,San Pietro in Casale,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
+037056,Sant'Agata Bolognese,Bologna,BO,Emilia-Romagna,Emil-D1,Pianura bolognese
 037057,Sasso Marconi,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037059,Vergato,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037060,Zola Predosa,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037061,Valsamoggia,Bologna,BO,Emilia-Romagna,Emil-C2,Collina bolognese
 037062,Alto Reno Terme,Bologna,BO,Emilia-Romagna,Emil-C1,Montagna bolognese
-038001,Argenta,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-038003,Bondeno,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038004,Cento,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+038001,Argenta,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese
+038003,Bondeno,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038004,Cento,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese
 038005,Codigoro,Ferrara,FE,Emilia-Romagna,Emil-D2,Costa ferrarese
 038006,Comacchio,Ferrara,FE,Emilia-Romagna,Emil-D2,Costa ferrarese
-038007,Copparo,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038008,Ferrara,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038010,Jolanda di Savoia,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038011,Lagosanto,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038012,Masi Torello,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
+038007,Copparo,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038008,Ferrara,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038010,Jolanda di Savoia,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038011,Lagosanto,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038012,Masi Torello,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
 038014,Mesola,Ferrara,FE,Emilia-Romagna,Emil-D2,Costa ferrarese
-038017,Ostellato,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038018,Poggio Renatico,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-038019,Portomaggiore,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038022,Vigarano Mainarda,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038023,Voghiera,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
+038017,Ostellato,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038018,Poggio Renatico,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese
+038019,Portomaggiore,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038022,Vigarano Mainarda,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038023,Voghiera,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
 038025,Goro,Ferrara,FE,Emilia-Romagna,Emil-D2,Costa ferrarese
-038027,Fiscaglia,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038028,Terre del Reno,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-038029,Riva del Po,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-038030,Tresignana,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese di Po e Po di volano
-039001,Alfonsine,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039002,Bagnacavallo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039003,Bagnara di Romagna,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+038027,Fiscaglia,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038028,Terre del Reno,Ferrara,FE,Emilia-Romagna,Emil-D1,Pianura bolognese
+038029,Riva del Po,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+038030,Tresignana,Ferrara,FE,Emilia-Romagna,Emil-D3,Pianura ferrarese
+039001,Alfonsine,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039002,Bagnacavallo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039003,Bagnara di Romagna,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
 039004,Brisighella,Ravenna,RA,Emilia-Romagna,Emil-A2,Alta collina romagnola
 039005,Casola Valsenio,Ravenna,RA,Emilia-Romagna,Emil-C2,Collina bolognese
 039006,Castel Bolognese,Ravenna,RA,Emilia-Romagna,Emil-C2,Collina bolognese
 039007,Cervia,Ravenna,RA,Emilia-Romagna,Emil-B2,Costa romagnola
-039008,Conselice,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039009,Cotignola,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+039008,Conselice,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039009,Cotignola,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
 039010,Faenza,Ravenna,RA,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
-039011,Fusignano,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039012,Lugo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039013,Massa Lombarda,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+039011,Fusignano,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039012,Lugo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039013,Massa Lombarda,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
 039014,Ravenna,Ravenna,RA,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
 039015,Riolo Terme,Ravenna,RA,Emilia-Romagna,Emil-C2,Collina bolognese
 039016,Russi,Ravenna,RA,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
-039017,Sant'Agata sul Santerno,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
-039018,Solarolo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese di Reno e suoi affluenti
+039017,Sant'Agata sul Santerno,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
+039018,Solarolo,Ravenna,RA,Emilia-Romagna,Emil-D1,Pianura bolognese
 040001,Bagno di Romagna,Forlì-Cesena,FC,Emilia-Romagna,Emil-A1,Montagna romagnola
 040003,Bertinoro,Forlì-Cesena,FC,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
 040004,Borghi,Forlì-Cesena,FC,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
@@ -4773,7 +4773,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 041029,Mondolfo,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
 041030,Montecalvo in Foglia,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
 041031,Monte Cerignone,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
-099030,Montecopiolo,Rimini,RN,Emilia-Romagna,Marc-1,Marc-1
+099030,Montecopiolo,Rimini,RN,Emilia-Romagna,Emil-A1,Montagna romagnola
 041034,Montefelcino,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
 041035,Monte Grimano Terme,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
 041036,Montelabbate,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
@@ -4789,7 +4789,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 041054,San Lorenzo in Campo,Pesaro e Urbino,PU,Marche,Marc-1,Marc-1
 041057,Sant'Angelo in Vado,Pesaro e Urbino,PU,Marche,Marc-1,Marc-1
 041058,Sant'Ippolito,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
-099031,Sassofeltrio,Rimini,RN,Emilia-Romagna,Marc-2,Marc-2
+099031,Sassofeltrio,Rimini,RN,Emilia-Romagna,Emil-B1,Bassa collina e pianura romagnola
 041061,Serra Sant'Abbondio,Pesaro e Urbino,PU,Marche,Marc-1,Marc-1
 041064,Tavoleto,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
 041065,Tavullia,Pesaro e Urbino,PU,Marche,Marc-2,Marc-2
