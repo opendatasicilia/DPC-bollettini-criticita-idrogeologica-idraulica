@@ -7521,7 +7521,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 089014,Pachino,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
 089015,Palazzolo Acreide,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
 089016,Rosolini,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
-089017,Siracusa,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
+089017,Siracusa,Siracusa,SR,Sicilia,,
 089018,Solarino,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
 089019,Sortino,Siracusa,SR,Sicilia,Sici-G,"Sud-Orientale, versante ionico"
 089020,Portopalo di Capo Passero,Siracusa,SR,Sicilia,Sici-F,"Sud-Orientale, versante Stretto di Sicilia"
