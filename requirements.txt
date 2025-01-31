@@ -4,3 +4,4 @@ geopandas==0.10.2
 requests==2.26.0
 pygeos==0.12.0
 fiona==1.9.6
+shapely==2.0.6
