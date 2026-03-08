@@ -41,14 +41,19 @@ os.mkdir(BOLLETTINI_DIR)
 print("Creo directory data/zone")
 os.mkdir(ZONE_DIR)
 
-PROTEZIONE_CIVILE_BOLLETTINI_URL = 'https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/blob/master/files/all/latest_all.zip?raw=true'
+PROTEZIONE_CIVILE_BOLLETTINI_URL = 'https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/latest_all.zip'
 COMUNI_ITALIANI_URL = 'https://raw.githubusercontent.com/opendatasicilia/comuni-italiani/main/dati/main.csv'
 
 print('Downloading dati criticità, idrogeologica, idraulica, temporali della Protezione Civile')
 
+headers = {"User-Agent": "Mozilla/5.0"}
+
+
 try:
-    r = requests.get(PROTEZIONE_CIVILE_BOLLETTINI_URL)
+    r = requests.get(PROTEZIONE_CIVILE_BOLLETTINI_URL, headers=headers, timeout=120)
+    r.raise_for_status()
 except Exception as e:
+    print(e)
     os.sys.exit(f"Richiesta URL {PROTEZIONE_CIVILE_BOLLETTINI_URL} non andata a buon fine")
 
 
