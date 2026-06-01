@@ -1183,55 +1183,55 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 007001,Allein,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007002,Antey-Saint-André,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007003,Aosta,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007004,Arnad,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007004,Arnad,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007005,Arvier,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007006,Avise,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007007,Ayas,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007007,Ayas,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007008,Aymavilles,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007009,Bard,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007009,Bard,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007010,Bionaz,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007011,Brissogne,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007012,Brusson,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007013,Challand-Saint-Anselme,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007014,Challand-Saint-Victor,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007012,Brusson,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007013,Challand-Saint-Anselme,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007014,Challand-Saint-Victor,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007015,Chambave,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007016,Chamois,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007017,Champdepraz,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007018,Champorcher,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007017,Champdepraz,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007018,Champorcher,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007019,Charvensod,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007020,Châtillon,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007021,Cogne,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-C,"Valle di Cogne, Valsavarenche e Valle di Rhêmes"
 007022,Courmayeur,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
-007023,Donnas,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007023,Donnas,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007024,Doues,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
-007025,Emarèse,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007025,Emarèse,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007026,Etroubles,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007027,Fénis,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007028,Fontainemore,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007029,Gaby,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007028,Fontainemore,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007029,Gaby,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007030,Gignod,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007031,Gressan,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007032,Gressoney-La-Trinité,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007033,Gressoney-Saint-Jean,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007034,Hône,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007032,Gressoney-La-Trinité,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007033,Gressoney-Saint-Jean,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007034,Hône,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007035,Introd,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007036,Issime,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007037,Issogne,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007036,Issime,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007037,Issogne,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007038,Jovençan,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007039,La Magdeleine,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007040,La Salle,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007041,La Thuile,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
-007042,Lillianes,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
-007043,Montjovet,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007042,Lillianes,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
+007043,Montjovet,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007044,Morgex,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007045,Nus,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007046,Ollomont,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007047,Oyace,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
-007048,Perloz,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007048,Perloz,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007049,Pollein,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007050,Pontboset,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007050,Pontboset,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007051,Pontey,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007052,Pont-Saint-Martin,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007052,Pont-Saint-Martin,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007053,Pré-Saint-Didier,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
 007054,Quart,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007055,Rhêmes-Notre-Dame,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-C,"Valle di Cogne, Valsavarenche e Valle di Rhêmes"
@@ -1252,7 +1252,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 007070,Valsavarenche,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-C,"Valle di Cogne, Valsavarenche e Valle di Rhêmes"
 007071,Valtournenche,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 007072,Verrayes,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-007073,Verrès,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+007073,Verrès,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 007074,Villeneuve,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste,VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
 012001,Agra,Varese,VA,Lombardia,Lomb-04,Laghi e Prealpi Varesine
 012002,Albizzate,Varese,VA,Lombardia,Lomb-09,Nodo Idraulico di Milano
@@ -3042,569 +3042,569 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 022252,Borgo d'Anaunia,Trento,TN,Trentino-Alto Adige/Südtirol,Tren-B,Provincia Autonoma di Trento
 022253,Novella,Trento,TN,Trentino-Alto Adige/Südtirol,Tren-B,Provincia Autonoma di Trento
 022254,Ville di Fiemme,Trento,TN,Trentino-Alto Adige/Südtirol,Tren-B,Provincia Autonoma di Trento
-023001,Affi,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023002,Albaredo d'Adige,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023003,Angiari,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023004,Arcole,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023005,Badia Calavena,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023006,Bardolino,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023007,Belfiore,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023008,Bevilacqua,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023009,Bonavigo,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023010,Boschi Sant'Anna,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023011,Bosco Chiesanuova,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023012,Bovolone,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023013,Brentino Belluno,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023014,Brenzone sul Garda,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023015,Bussolengo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023016,Buttapietra,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023017,Caldiero,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023018,Caprino Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023019,Casaleone,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023020,Castagnaro,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023021,Castel d'Azzano,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023022,Castelnuovo del Garda,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023023,Cavaion Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023024,Cazzano di Tramigna,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023025,Cerea,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023026,Cerro Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023027,Cologna Veneta,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023028,Colognola ai Colli,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023029,Concamarise,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023030,Costermano sul Garda,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023031,Dolcè,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023032,Erbè,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023033,Erbezzo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023034,Ferrara di Monte Baldo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023035,Fumane,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023036,Garda,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023037,Gazzo Veronese,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023038,Grezzana,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023039,Illasi,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023040,Isola della Scala,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023041,Isola Rizza,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023042,Lavagno,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023043,Lazise,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023044,Legnago,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023045,Malcesine,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023046,Marano di Valpolicella,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023047,Mezzane di Sotto,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023048,Minerbe,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023049,Montecchia di Crosara,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023050,Monteforte d'Alpone,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023051,Mozzecane,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023052,Negrar di Valpolicella,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023053,Nogara,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023054,Nogarole Rocca,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023055,Oppeano,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023056,Palù,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023057,Pastrengo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023058,Pescantina,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023059,Peschiera del Garda,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023060,Povegliano Veronese,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023061,Pressana,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023062,Rivoli Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023063,Roncà,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023064,Ronco all'Adige,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023065,Roverchiara,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023066,Roveredo di Guà,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023067,Roverè Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023068,Salizzole,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023069,San Bonifacio,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023070,San Giovanni Ilarione,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023071,San Giovanni Lupatoto,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023072,Sanguinetto,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023073,San Martino Buon Albergo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023074,San Mauro di Saline,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023075,San Pietro di Morubio,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023076,San Pietro in Cariano,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023077,Sant'Ambrogio di Valpolicella,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023078,Sant'Anna d'Alfaedo,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023079,San Zeno di Montagna,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023080,Selva di Progno,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023081,Soave,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023082,Sommacampagna,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023083,Sona,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023084,Sorgà,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023085,Terrazzo,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023086,Torri del Benaco,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023087,Tregnago,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023088,Trevenzuolo,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023089,Valeggio sul Mincio,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023090,Velo Veronese,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023091,Verona,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023092,Veronella,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-023093,Vestenanova,Verona,VR,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-023094,Vigasio,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023095,Villa Bartolomea,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023096,Villafranca di Verona,Verona,VR,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-023097,Zevio,Verona,VR,Veneto,Vene-C,Adige-Garda e monti Lessini
-023098,Zimella,Verona,VR,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024001,Agugliaro,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024002,Albettone,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024003,Alonte,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024004,Altavilla Vicentina,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024005,Altissimo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024006,Arcugnano,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024007,Arsiero,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024008,Arzignano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024009,Asiago,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024010,Asigliano Veneto,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024012,Bassano del Grappa,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024013,Bolzano Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024014,Breganze,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024015,Brendola,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024016,Bressanvido,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024017,Brogliano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024018,Caldogno,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024019,Caltrano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024020,Calvene,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024021,Camisano Vicentino,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024022,Campiglia dei Berici,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024024,Carrè,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024025,Cartigliano,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024026,Cassola,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024027,Castegnero,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024028,Castelgomberto,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024029,Chiampo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024030,Chiuppano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024032,Cogollo del Cengio,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024034,Cornedo Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024035,Costabissara,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024036,Creazzo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024037,Crespadoro,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024038,Dueville,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024039,Enego,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024040,Fara Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024041,Foza,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024042,Gallio,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024043,Gambellara,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024044,Gambugliano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024046,Grisignano di Zocco,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024047,Grumolo delle Abbadesse,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024048,Isola Vicentina,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024049,Laghi,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024050,Lastebasse,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024051,Longare,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024052,Lonigo,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024053,Lugo di Vicenza,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024055,Malo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024056,Marano Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024057,Marostica,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024060,Montebello Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024061,Montecchio Maggiore,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024062,Montecchio Precalcino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024063,Monte di Malo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024064,Montegalda,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024065,Montegaldella,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024066,Monteviale,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024067,Monticello Conte Otto,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024068,Montorso Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024070,Mussolente,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024071,Nanto,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024072,Nogarole Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024073,Nove,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024074,Noventa Vicentina,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024075,Orgiano,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024076,Pedemonte,Vicenza,VI,Veneto,Vene-C,Adige-Garda e monti Lessini
-024077,Pianezze,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024078,Piovene Rocchette,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024079,Pojana Maggiore,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024080,Posina,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024081,Pove del Grappa,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024082,Pozzoleone,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024083,Quinto Vicentino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024084,Recoaro Terme,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024085,Roana,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024086,Romano d'Ezzelino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024087,Rosà,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024088,Rossano Veneto,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024089,Rotzo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024090,Salcedo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024091,Sandrigo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024094,San Pietro Mussolino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024095,Santorso,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024096,San Vito di Leguzzano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024097,Sarcedo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024098,Sarego,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024099,Schiavon,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024100,Schio,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024101,Solagna,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024102,Sossano,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024103,Sovizzo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024104,Tezze sul Brenta,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024105,Thiene,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024106,Tonezza del Cimone,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024107,Torrebelvicino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024108,Torri di Quartesolo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024110,Trissino,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024111,Valdagno,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024112,Valdastico,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024113,Valli del Pasubio,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024115,Velo d'Astico,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024116,Vicenza,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024117,Villaga,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024118,Villaverla,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024119,Zanè,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024120,Zermeghedo,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024121,Zovencedo,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024122,Zugliano,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024123,Val Liona,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024124,Barbarano Mossano,Vicenza,VI,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-024125,Valbrenta,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024126,Colceresa,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-024127,Lusiana Conco,Vicenza,VI,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-025001,Agordo,Belluno,BL,Veneto,Vene-A,Alto Piave
-025002,Alano di Piave,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025003,Alleghe,Belluno,BL,Veneto,Vene-A,Alto Piave
-025004,Arsiè,Belluno,BL,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-025005,Auronzo di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025006,Belluno,Belluno,BL,Veneto,Vene-A,Alto Piave
-025007,Borca di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025008,Calalzo di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025010,Cencenighe Agordino,Belluno,BL,Veneto,Vene-A,Alto Piave
-025011,Cesiomaggiore,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025012,Chies d'Alpago,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025013,Cibiana di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025014,Colle Santa Lucia,Belluno,BL,Veneto,Vene-A,Alto Piave
-025015,Comelico Superiore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025016,Cortina d'Ampezzo,Belluno,BL,Veneto,Vene-A,Alto Piave
-025017,Danta di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025018,Domegge di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025019,Falcade,Belluno,BL,Veneto,Vene-A,Alto Piave
-025021,Feltre,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025022,Fonzaso,Belluno,BL,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-025023,Canale d'Agordo,Belluno,BL,Veneto,Vene-A,Alto Piave
-025025,Gosaldo,Belluno,BL,Veneto,Vene-A,Alto Piave
-025026,Lamon,Belluno,BL,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-025027,La Valle Agordina,Belluno,BL,Veneto,Vene-A,Alto Piave
-025029,Limana,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025030,Livinallongo del Col di Lana,Belluno,BL,Veneto,Vene-A,Alto Piave
-025032,Lorenzago di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025033,Lozzo di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025035,Ospitale di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025036,Pedavena,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025037,Perarolo di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025039,Pieve di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025040,Ponte nelle Alpi,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025043,Rivamonte Agordino,Belluno,BL,Veneto,Vene-A,Alto Piave
-025044,Rocca Pietore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025045,San Gregorio nelle Alpi,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025046,San Nicolò di Comelico,Belluno,BL,Veneto,Vene-A,Alto Piave
-025047,San Pietro di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025048,Santa Giustina,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025049,San Tomaso Agordino,Belluno,BL,Veneto,Vene-A,Alto Piave
-025050,Santo Stefano di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025051,San Vito di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025053,Sedico,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025054,Selva di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025055,Seren del Grappa,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025056,Sospirolo,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025057,Soverzene,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025058,Sovramonte,Belluno,BL,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-025059,Taibon Agordino,Belluno,BL,Veneto,Vene-A,Alto Piave
-025060,Tambre,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025062,Vallada Agordina,Belluno,BL,Veneto,Vene-A,Alto Piave
-025063,Valle di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025065,Vigo di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025066,Vodo Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025067,Voltago Agordino,Belluno,BL,Veneto,Vene-A,Alto Piave
-025069,Zoppè di Cadore,Belluno,BL,Veneto,Vene-A,Alto Piave
-025070,Quero Vas,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025071,Longarone,Belluno,BL,Veneto,Vene-A,Alto Piave
-025072,Alpago,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-025073,Val di Zoldo,Belluno,BL,Veneto,Vene-A,Alto Piave
-025074,Borgo Valbelluna,Belluno,BL,Veneto,Vene-H,Piave pedemontano
-026001,Altivole,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026002,Arcade,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026003,Asolo,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026004,Borso del Grappa,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026005,Breda di Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026006,Caerano di San Marco,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026007,Cappella Maggiore,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026008,Carbonera,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026009,Casale sul Sile,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026010,Casier,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026011,Castelcucco,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026012,Castelfranco Veneto,Treviso,TV,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-026013,Castello di Godego,Treviso,TV,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-026014,Cavaso del Tomba,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026015,Cessalto,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026016,Chiarano,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026017,Cimadolmo,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026018,Cison di Valmarino,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026019,Codognè,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026020,Colle Umberto,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026021,Conegliano,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026022,Cordignano,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026023,Cornuda,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026025,Crocetta del Montello,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026026,Farra di Soligo,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026027,Follina,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026028,Fontanelle,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026029,Fonte,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026030,Fregona,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026031,Gaiarine,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026032,Giavera del Montello,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026033,Godega di Sant'Urbano,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026034,Gorgo al Monticano,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026035,Istrana,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026036,Loria,Treviso,TV,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-026037,Mansuè,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026038,Mareno di Piave,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026039,Maser,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026040,Maserada sul Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026041,Meduna di Livenza,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026042,Miane,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026043,Mogliano Veneto,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026044,Monastier di Treviso,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026045,Monfumo,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026046,Montebelluna,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026047,Morgano,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026048,Moriago della Battaglia,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026049,Motta di Livenza,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026050,Nervesa della Battaglia,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026051,Oderzo,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026052,Ormelle,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026053,Orsago,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026055,Paese,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026056,Pederobba,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026057,Pieve di Soligo,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026058,Ponte di Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026059,Ponzano Veneto,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026060,Portobuffolè,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026061,Possagno,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026062,Povegliano,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026063,Preganziol,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026064,Quinto di Treviso,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026065,Refrontolo,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026066,Resana,Treviso,TV,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-026067,Revine Lago,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026068,Riese Pio X,Treviso,TV,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-026069,Roncade,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026070,Salgareda,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026071,San Biagio di Callalta,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026072,San Fior,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026073,San Pietro di Feletto,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026074,San Polo di Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026075,Santa Lucia di Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026076,San Vendemiano,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026077,San Zenone degli Ezzelini,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-026078,Sarmede,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026079,Segusino,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026080,Sernaglia della Battaglia,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026081,Silea,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026082,Spresiano,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026083,Susegana,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026084,Tarzo,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026085,Trevignano,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026086,Treviso,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026087,Valdobbiadene,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026088,Vazzola,Treviso,TV,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-026089,Vedelago,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026090,Vidor,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026091,Villorba,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026092,Vittorio Veneto,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026093,Volpago del Montello,Treviso,TV,Veneto,Vene-H,Piave pedemontano
-026094,Zenson di Piave,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026095,Zero Branco,Treviso,TV,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-026096,Pieve del Grappa,Treviso,TV,Veneto,Vene-B,Alto Brenta-Bacchiglione-Alpone
-027001,Annone Veneto,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027002,Campagna Lupia,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027003,Campolongo Maggiore,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027004,Camponogara,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027005,Caorle,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027006,Cavarzere,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027007,Ceggia,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027008,Chioggia,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027009,Cinto Caomaggiore,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027010,Cona,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027011,Concordia Sagittaria,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027012,Dolo,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027013,Eraclea,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027014,Fiesso d'Artico,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027015,Fossalta di Piave,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027016,Fossalta di Portogruaro,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027017,Fossò,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027018,Gruaro,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027019,Jesolo,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027020,Marcon,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027021,Martellago,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027022,Meolo,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027023,Mira,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027024,Mirano,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027025,Musile di Piave,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027026,Noale,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027027,Noventa di Piave,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027028,Pianiga,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027029,Portogruaro,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027030,Pramaggiore,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027031,Quarto d'Altino,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027032,Salzano,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027033,San Donà di Piave,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027034,San Michele al Tagliamento,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027035,Santa Maria di Sala,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027036,San Stino di Livenza,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027037,Scorzè,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027038,Spinea,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027039,Stra,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027040,Teglio Veneto,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027041,Torre di Mosto,Venezia,VE,Veneto,Vene-G,"Livenza, Lemene e Tagliamento"
-027042,Venezia,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-027043,Vigonovo,Venezia,VE,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-027044,Cavallino-Treporti,Venezia,VE,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-028001,Abano Terme,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028002,Agna,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028003,Albignasego,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028004,Anguillara Veneta,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028005,Arquà Petrarca,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028006,Arre,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028007,Arzergrande,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028008,Bagnoli di Sopra,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028009,Baone,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028010,Barbona,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028011,Battaglia Terme,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028012,Boara Pisani,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028013,Borgoricco,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028014,Bovolenta,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028015,Brugine,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028016,Cadoneghe,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028017,Campodarsego,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028018,Campodoro,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028019,Camposampiero,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028020,Campo San Martino,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028021,Candiana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028022,Carceri,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028023,Carmignano di Brenta,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028026,Cartura,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028027,Casale di Scodosia,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028028,Casalserugo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028029,Castelbaldo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028030,Cervarese Santa Croce,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028031,Cinto Euganeo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028032,Cittadella,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028033,Codevigo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028034,Conselve,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028035,Correzzola,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028036,Curtarolo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028037,Este,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028038,Fontaniva,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028039,Galliera Veneta,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028040,Galzignano Terme,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
+023001,Affi,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023002,Albaredo d'Adige,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023003,Angiari,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023004,Arcole,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023005,Badia Calavena,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023006,Bardolino,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023007,Belfiore,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023008,Bevilacqua,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023009,Bonavigo,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023010,Boschi Sant'Anna,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023011,Bosco Chiesanuova,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023012,Bovolone,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023013,Brentino Belluno,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023014,Brenzone sul Garda,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023015,Bussolengo,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023016,Buttapietra,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023017,Caldiero,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023018,Caprino Veronese,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023019,Casaleone,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023020,Castagnaro,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023021,Castel d'Azzano,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023022,Castelnuovo del Garda,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023023,Cavaion Veronese,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023024,Cazzano di Tramigna,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023025,Cerea,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023026,Cerro Veronese,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023027,Cologna Veneta,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023028,Colognola ai Colli,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023029,Concamarise,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023030,Costermano sul Garda,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023031,Dolcè,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023032,Erbè,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023033,Erbezzo,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023034,Ferrara di Monte Baldo,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023035,Fumane,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023036,Garda,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023037,Gazzo Veronese,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023038,Grezzana,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023039,Illasi,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023040,Isola della Scala,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023041,Isola Rizza,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023042,Lavagno,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023043,Lazise,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023044,Legnago,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023045,Malcesine,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023046,Marano di Valpolicella,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023047,Mezzane di Sotto,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023048,Minerbe,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023049,Montecchia di Crosara,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023050,Monteforte d'Alpone,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023051,Mozzecane,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023052,Negrar di Valpolicella,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023053,Nogara,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023054,Nogarole Rocca,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023055,Oppeano,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023056,Palù,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023057,Pastrengo,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023058,Pescantina,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023059,Peschiera del Garda,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023060,Povegliano Veronese,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023061,Pressana,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023062,Rivoli Veronese,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023063,Roncà,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023064,Ronco all'Adige,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023065,Roverchiara,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023066,Roveredo di Guà,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023067,Roverè Veronese,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023068,Salizzole,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023069,San Bonifacio,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023070,San Giovanni Ilarione,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023071,San Giovanni Lupatoto,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023072,Sanguinetto,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023073,San Martino Buon Albergo,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023074,San Mauro di Saline,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023075,San Pietro di Morubio,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023076,San Pietro in Cariano,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023077,Sant'Ambrogio di Valpolicella,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023078,Sant'Anna d'Alfaedo,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023079,San Zeno di Montagna,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023080,Selva di Progno,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023081,Soave,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023082,Sommacampagna,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023083,Sona,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023084,Sorgà,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023085,Terrazzo,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023086,Torri del Benaco,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023087,Tregnago,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023088,Trevenzuolo,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023089,Valeggio sul Mincio,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023090,Velo Veronese,Verona,VR,Veneto,Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+023091,Verona,Verona,VR,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+023092,Veronella,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+023093,Vestenanova,Verona,VR,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+023094,Vigasio,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023095,Villa Bartolomea,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023096,Villafranca di Verona,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023097,Zevio,Verona,VR,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+023098,Zimella,Verona,VR,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024001,Agugliaro,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024002,Albettone,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024003,Alonte,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024004,Altavilla Vicentina,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024005,Altissimo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024006,Arcugnano,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024007,Arsiero,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024008,Arzignano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024009,Asiago,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024010,Asigliano Veneto,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024012,Bassano del Grappa,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024013,Bolzano Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024014,Breganze,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024015,Brendola,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024016,Bressanvido,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024017,Brogliano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024018,Caldogno,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024019,Caltrano,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024020,Calvene,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024021,Camisano Vicentino,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024022,Campiglia dei Berici,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024024,Carrè,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024025,Cartigliano,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024026,Cassola,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024027,Castegnero,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024028,Castelgomberto,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024029,Chiampo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024030,Chiuppano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024032,Cogollo del Cengio,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024034,Cornedo Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024035,Costabissara,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024036,Creazzo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024037,Crespadoro,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024038,Dueville,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024039,Enego,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024040,Fara Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024041,Foza,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024042,Gallio,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024043,Gambellara,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024044,Gambugliano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024046,Grisignano di Zocco,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024047,Grumolo delle Abbadesse,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024048,Isola Vicentina,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024049,Laghi,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024050,Lastebasse,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024051,Longare,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024052,Lonigo,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024053,Lugo di Vicenza,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024055,Malo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024056,Marano Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024057,Marostica,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024060,Montebello Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024061,Montecchio Maggiore,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024062,Montecchio Precalcino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024063,Monte di Malo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024064,Montegalda,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024065,Montegaldella,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024066,Monteviale,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024067,Monticello Conte Otto,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024068,Montorso Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024070,Mussolente,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024071,Nanto,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024072,Nogarole Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024073,Nove,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024074,Noventa Vicentina,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024075,Orgiano,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024076,Pedemonte,Vicenza,VI,Veneto,Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+024077,Pianezze,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024078,Piovene Rocchette,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024079,Pojana Maggiore,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024080,Posina,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024081,Pove del Grappa,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024082,Pozzoleone,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024083,Quinto Vicentino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024084,Recoaro Terme,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024085,Roana,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024086,Romano d'Ezzelino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024087,Rosà,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024088,Rossano Veneto,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024089,Rotzo,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024090,Salcedo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024091,Sandrigo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024094,San Pietro Mussolino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024095,Santorso,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024096,San Vito di Leguzzano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024097,Sarcedo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024098,Sarego,Vicenza,VI,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+024099,Schiavon,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024100,Schio,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024101,Solagna,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024102,Sossano,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024103,Sovizzo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024104,Tezze sul Brenta,Vicenza,VI,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+024105,Thiene,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024106,Tonezza del Cimone,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024107,Torrebelvicino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024108,Torri di Quartesolo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024110,Trissino,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024111,Valdagno,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024112,Valdastico,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024113,Valli del Pasubio,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024115,Velo d'Astico,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024116,Vicenza,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024117,Villaga,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024118,Villaverla,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024119,Zanè,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024120,Zermeghedo,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024121,Zovencedo,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024122,Zugliano,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024123,Val Liona,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024124,Barbarano Mossano,Vicenza,VI,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+024125,Valbrenta,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+024126,Colceresa,Vicenza,VI,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+024127,Lusiana Conco,Vicenza,VI,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+025001,Agordo,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025002,Alano di Piave,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025003,Alleghe,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025004,Arsiè,Belluno,BL,Veneto,Vene-B1,Feltrino - Bacino Cismon
+025005,Auronzo di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025006,Belluno,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025007,Borca di Cadore,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025008,Calalzo di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025010,Cencenighe Agordino,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025011,Cesiomaggiore,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025012,Chies d'Alpago,Belluno,BL,Veneto,Vene-H2,Alpago Cansiglio - Bacino Piave
+025013,Cibiana di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025014,Colle Santa Lucia,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025015,Comelico Superiore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025016,Cortina d'Ampezzo,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025017,Danta di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025018,Domegge di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025019,Falcade,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025021,Feltre,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025022,Fonzaso,Belluno,BL,Veneto,Vene-B1,Feltrino - Bacino Cismon
+025023,Canale d'Agordo,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025025,Gosaldo,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025026,Lamon,Belluno,BL,Veneto,Vene-B1,Feltrino - Bacino Cismon
+025027,La Valle Agordina,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025029,Limana,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025030,Livinallongo del Col di Lana,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025032,Lorenzago di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025033,Lozzo di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025035,Ospitale di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025036,Pedavena,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025037,Perarolo di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025039,Pieve di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025040,Ponte nelle Alpi,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025043,Rivamonte Agordino,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025044,Rocca Pietore,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025045,San Gregorio nelle Alpi,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025046,San Nicolò di Comelico,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025047,San Pietro di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025048,Santa Giustina,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025049,San Tomaso Agordino,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025050,Santo Stefano di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025051,San Vito di Cadore,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025053,Sedico,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025054,Selva di Cadore,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025055,Seren del Grappa,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025056,Sospirolo,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025057,Soverzene,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025058,Sovramonte,Belluno,BL,Veneto,Vene-B1,Feltrino - Bacino Cismon
+025059,Taibon Agordino,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025060,Tambre,Belluno,BL,Veneto,Vene-H2,Alpago Cansiglio - Bacino Piave
+025062,Vallada Agordina,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025063,Valle di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025065,Vigo di Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025066,Vodo Cadore,Belluno,BL,Veneto,Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+025067,Voltago Agordino,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025069,Zoppè di Cadore,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025070,Quero Vas,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025071,Longarone,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+025072,Alpago,Belluno,BL,Veneto,Vene-H2,Alpago Cansiglio - Bacino Piave
+025073,Val di Zoldo,Belluno,BL,Veneto,Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+025074,Borgo Valbelluna,Belluno,BL,Veneto,Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+026001,Altivole,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026002,Arcade,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026003,Asolo,Treviso,TV,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+026004,Borso del Grappa,Treviso,TV,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+026005,Breda di Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026006,Caerano di San Marco,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026007,Cappella Maggiore,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026008,Carbonera,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026009,Casale sul Sile,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026010,Casier,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026011,Castelcucco,Treviso,TV,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+026012,Castelfranco Veneto,Treviso,TV,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+026013,Castello di Godego,Treviso,TV,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+026014,Cavaso del Tomba,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026015,Cessalto,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026016,Chiarano,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026017,Cimadolmo,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026018,Cison di Valmarino,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026019,Codognè,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026020,Colle Umberto,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026021,Conegliano,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026022,Cordignano,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026023,Cornuda,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026025,Crocetta del Montello,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026026,Farra di Soligo,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026027,Follina,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026028,Fontanelle,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026029,Fonte,Treviso,TV,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+026030,Fregona,Treviso,TV,Veneto,Vene-H5,Prealpi trevigiane - Bacino Livenza
+026031,Gaiarine,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026032,Giavera del Montello,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026033,Godega di Sant'Urbano,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026034,Gorgo al Monticano,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026035,Istrana,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026036,Loria,Treviso,TV,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+026037,Mansuè,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026038,Mareno di Piave,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026039,Maser,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026040,Maserada sul Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026041,Meduna di Livenza,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026042,Miane,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026043,Mogliano Veneto,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026044,Monastier di Treviso,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026045,Monfumo,Treviso,TV,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+026046,Montebelluna,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026047,Morgano,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026048,Moriago della Battaglia,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026049,Motta di Livenza,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026050,Nervesa della Battaglia,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026051,Oderzo,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026052,Ormelle,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026053,Orsago,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026055,Paese,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026056,Pederobba,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026057,Pieve di Soligo,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026058,Ponte di Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026059,Ponzano Veneto,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026060,Portobuffolè,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026061,Possagno,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026062,Povegliano,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026063,Preganziol,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026064,Quinto di Treviso,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026065,Refrontolo,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026066,Resana,Treviso,TV,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+026067,Revine Lago,Treviso,TV,Veneto,Vene-H5,Prealpi trevigiane - Bacino Livenza
+026068,Riese Pio X,Treviso,TV,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+026069,Roncade,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026070,Salgareda,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026071,San Biagio di Callalta,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026072,San Fior,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026073,San Pietro di Feletto,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026074,San Polo di Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026075,Santa Lucia di Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026076,San Vendemiano,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026077,San Zenone degli Ezzelini,Treviso,TV,Veneto,Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+026078,Sarmede,Treviso,TV,Veneto,Vene-H5,Prealpi trevigiane - Bacino Livenza
+026079,Segusino,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026080,Sernaglia della Battaglia,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026081,Silea,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026082,Spresiano,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026083,Susegana,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026084,Tarzo,Treviso,TV,Veneto,Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
+026085,Trevignano,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026086,Treviso,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026087,Valdobbiadene,Treviso,TV,Veneto,Vene-H3,Prealpi trevigiane - Bacino Piave
+026088,Vazzola,Treviso,TV,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+026089,Vedelago,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026090,Vidor,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026091,Villorba,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026092,Vittorio Veneto,Treviso,TV,Veneto,Vene-H5,Prealpi trevigiane - Bacino Livenza
+026093,Volpago del Montello,Treviso,TV,Veneto,Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+026094,Zenson di Piave,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026095,Zero Branco,Treviso,TV,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+026096,Pieve del Grappa,Treviso,TV,Veneto,Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+027001,Annone Veneto,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027002,Campagna Lupia,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027003,Campolongo Maggiore,Venezia,VE,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+027004,Camponogara,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027005,Caorle,Venezia,VE,Veneto,Vene-G2,"Costa orientale Bacini Livenza, Lemene, Tagliamento, Pianura tra Livenza e Piave"
+027006,Cavarzere,Venezia,VE,Veneto,Vene-E5,"Pianura centro meridionale - Bacini Bacchiglione Fratta-Gorzone, Adige, Scolante in Laguna, Fissero Tartaro Canalbianco"
+027007,Ceggia,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027008,Chioggia,Venezia,VE,Veneto,Vene-E4,"Costa centro meridionale - Bacini Brenta Bacchiglione, Fratta-Gorzone, Adige, Scolante in Laguna"
+027009,Cinto Caomaggiore,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027010,Cona,Venezia,VE,Veneto,Vene-E5,"Pianura centro meridionale - Bacini Bacchiglione Fratta-Gorzone, Adige, Scolante in Laguna, Fissero Tartaro Canalbianco"
+027011,Concordia Sagittaria,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027012,Dolo,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027013,Eraclea,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027014,Fiesso d'Artico,Venezia,VE,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+027015,Fossalta di Piave,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027016,Fossalta di Portogruaro,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027017,Fossò,Venezia,VE,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+027018,Gruaro,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027019,Jesolo,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027020,Marcon,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027021,Martellago,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027022,Meolo,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027023,Mira,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027024,Mirano,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027025,Musile di Piave,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027026,Noale,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027027,Noventa di Piave,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027028,Pianiga,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027029,Portogruaro,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027030,Pramaggiore,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027031,Quarto d'Altino,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027032,Salzano,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027033,San Donà di Piave,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027034,San Michele al Tagliamento,Venezia,VE,Veneto,Vene-G2,"Costa orientale Bacini Livenza, Lemene, Tagliamento, Pianura tra Livenza e Piave"
+027035,Santa Maria di Sala,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027036,San Stino di Livenza,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027037,Scorzè,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027038,Spinea,Venezia,VE,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027039,Stra,Venezia,VE,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+027040,Teglio Veneto,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027041,Torre di Mosto,Venezia,VE,Veneto,Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+027042,Venezia,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+027043,Vigonovo,Venezia,VE,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+027044,Cavallino-Treporti,Venezia,VE,Veneto,Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+028001,Abano Terme,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028002,Agna,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028003,Albignasego,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028004,Anguillara Veneta,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028005,Arquà Petrarca,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028006,Arre,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028007,Arzergrande,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028008,Bagnoli di Sopra,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028009,Baone,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028010,Barbona,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028011,Battaglia Terme,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028012,Boara Pisani,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028013,Borgoricco,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028014,Bovolenta,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028015,Brugine,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028016,Cadoneghe,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028017,Campodarsego,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028018,Campodoro,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028019,Camposampiero,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028020,Campo San Martino,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028021,Candiana,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028022,Carceri,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028023,Carmignano di Brenta,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028026,Cartura,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028027,Casale di Scodosia,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028028,Casalserugo,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028029,Castelbaldo,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028030,Cervarese Santa Croce,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028031,Cinto Euganeo,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028032,Cittadella,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028033,Codevigo,Padova,PD,Veneto,Vene-E4,"Costa centro meridionale - Bacini Brenta Bacchiglione, Fratta-Gorzone, Adige, Scolante in Laguna"
+028034,Conselve,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028035,Correzzola,Padova,PD,Veneto,Vene-E5,"Pianura centro meridionale - Bacini Bacchiglione Fratta-Gorzone, Adige, Scolante in Laguna, Fissero Tartaro Canalbianco"
+028036,Curtarolo,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028037,Este,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028038,Fontaniva,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028039,Galliera Veneta,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028040,Galzignano Terme,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
 028041,Gazzo,Padova,PD,Veneto,,
-028042,Grantorto,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028043,Granze,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028044,Legnaro,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028045,Limena,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028046,Loreggia,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028047,Lozzo Atestino,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028048,Maserà di Padova,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028049,Masi,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028050,Massanzago,Padova,PD,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-028052,Megliadino San Vitale,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028053,Merlara,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028054,Mestrino,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028055,Monselice,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028056,Montagnana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028057,Montegrotto Terme,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028058,Noventa Padovana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028059,Ospedaletto Euganeo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028060,Padova,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028061,Pernumia,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028062,Piacenza d'Adige,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028063,Piazzola sul Brenta,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028064,Piombino Dese,Padova,PD,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-028065,Piove di Sacco,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028066,Polverara,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028067,Ponso,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028068,Pontelongo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028069,Ponte San Nicolò,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028070,Pozzonovo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028071,Rovolon,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028072,Rubano,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028073,Saccolongo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028075,San Giorgio delle Pertiche,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028076,San Giorgio in Bosco,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028077,San Martino di Lupari,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028078,San Pietro in Gu,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028079,San Pietro Viminario,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028080,Santa Giustina in Colle,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028082,Sant'Angelo di Piove di Sacco,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028083,Sant'Elena,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028084,Sant'Urbano,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028085,Saonara,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028086,Selvazzano Dentro,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028087,Solesino,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028088,Stanghella,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028089,Teolo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028090,Terrassa Padovana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028091,Tombolo,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028092,Torreglia,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028093,Trebaseleghe,Padova,PD,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-028094,Tribano,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028095,Urbana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028096,Veggiano,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028097,Vescovana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028098,Vighizzolo d'Este,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028099,Vigodarzere,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028100,Vigonza,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028101,Villa del Conte,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028102,Villa Estense,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028103,Villafranca Padovana,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028104,Villanova di Camposampiero,Padova,PD,Veneto,Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-028105,Vo',Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028106,Due Carrare,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-028107,Borgo Veneto,Padova,PD,Veneto,Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-029001,Adria,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029002,Ariano nel Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029003,Arquà Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029004,Badia Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029005,Bagnolo di Po,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029006,Bergantino,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029007,Bosaro,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029008,Calto,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029009,Canaro,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029010,Canda,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029011,Castelguglielmo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029012,Castelmassa,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029013,Castelnovo Bariano,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029014,Ceneselli,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029015,Ceregnano,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029017,Corbola,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029018,Costa di Rovigo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029019,Crespino,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029021,Ficarolo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029022,Fiesso Umbertiano,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029023,Frassinelle Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029024,Fratta Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029025,Gaiba,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029026,Gavello,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029027,Giacciano con Baruchella,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029028,Guarda Veneta,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029029,Lendinara,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029030,Loreo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029031,Lusia,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029032,Melara,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029033,Occhiobello,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029034,Papozze,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029035,Pettorazza Grimani,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029036,Pincara,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029037,Polesella,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029038,Pontecchio Polesine,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029039,Porto Tolle,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029040,Rosolina,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029041,Rovigo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029042,Salara,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029043,San Bellino,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029044,San Martino di Venezze,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029045,Stienta,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029046,Taglio di Po,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029047,Trecenta,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029048,Villadose,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029049,Villamarzana,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029050,Villanova del Ghebbo,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029051,Villanova Marchesana,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-029052,Porto Viro,Rovigo,RO,Veneto,Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
+028042,Grantorto,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028043,Granze,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028044,Legnaro,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028045,Limena,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028046,Loreggia,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028047,Lozzo Atestino,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028048,Maserà di Padova,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028049,Masi,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028050,Massanzago,Padova,PD,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+028052,Megliadino San Vitale,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028053,Merlara,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028054,Mestrino,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028055,Monselice,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028056,Montagnana,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028057,Montegrotto Terme,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028058,Noventa Padovana,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028059,Ospedaletto Euganeo,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028060,Padova,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028061,Pernumia,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028062,Piacenza d'Adige,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028063,Piazzola sul Brenta,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028064,Piombino Dese,Padova,PD,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+028065,Piove di Sacco,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028066,Polverara,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028067,Ponso,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028068,Pontelongo,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028069,Ponte San Nicolò,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028070,Pozzonovo,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028071,Rovolon,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028072,Rubano,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028073,Saccolongo,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028075,San Giorgio delle Pertiche,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028076,San Giorgio in Bosco,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028077,San Martino di Lupari,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028078,San Pietro in Gu,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028079,San Pietro Viminario,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028080,Santa Giustina in Colle,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028082,Sant'Angelo di Piove di Sacco,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028083,Sant'Elena,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028084,Sant'Urbano,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028085,Saonara,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028086,Selvazzano Dentro,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028087,Solesino,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028088,Stanghella,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028089,Teolo,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028090,Terrassa Padovana,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028091,Tombolo,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028092,Torreglia,Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028093,Trebaseleghe,Padova,PD,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+028094,Tribano,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028095,Urbana,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028096,Veggiano,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028097,Vescovana,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028098,Vighizzolo d'Este,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028099,Vigodarzere,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028100,Vigonza,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028101,Villa del Conte,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028102,Villa Estense,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+028103,Villafranca Padovana,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028104,Villanova di Camposampiero,Padova,PD,Veneto,Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+028105,Vo',Padova,PD,Veneto,Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+028106,Due Carrare,Padova,PD,Veneto,Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+028107,Borgo Veneto,Padova,PD,Veneto,Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+029001,Adria,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029002,Ariano nel Polesine,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029003,Arquà Polesine,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029004,Badia Polesine,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029005,Bagnolo di Po,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029006,Bergantino,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029007,Bosaro,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029008,Calto,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029009,Canaro,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029010,Canda,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029011,Castelguglielmo,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029012,Castelmassa,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029013,Castelnovo Bariano,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029014,Ceneselli,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029015,Ceregnano,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029017,Corbola,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029018,Costa di Rovigo,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029019,Crespino,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029021,Ficarolo,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029022,Fiesso Umbertiano,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029023,Frassinelle Polesine,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029024,Fratta Polesine,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029025,Gaiba,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029026,Gavello,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029027,Giacciano con Baruchella,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029028,Guarda Veneta,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029029,Lendinara,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029030,Loreo,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029031,Lusia,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029032,Melara,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029033,Occhiobello,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029034,Papozze,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029035,Pettorazza Grimani,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029036,Pincara,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029037,Polesella,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029038,Pontecchio Polesine,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029039,Porto Tolle,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029040,Rosolina,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029041,Rovigo,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029042,Salara,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029043,San Bellino,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029044,San Martino di Venezze,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029045,Stienta,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029046,Taglio di Po,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029047,Trecenta,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029048,Villadose,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029049,Villamarzana,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029050,Villanova del Ghebbo,Rovigo,RO,Veneto,Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+029051,Villanova Marchesana,Rovigo,RO,Veneto,Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+029052,Porto Viro,Rovigo,RO,Veneto,Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
 030001,Aiello del Friuli,Udine,UD,Friuli-Venezia Giulia,Friu-C,Bacino dell'Isonzo e Pianura di Udine e Gorizia
 030002,Amaro,Udine,UD,Friuli-Venezia Giulia,Friu-B,Bacino montano del Tagliamento e del Torre
 030003,Ampezzo,Udine,UD,Friuli-Venezia Giulia,Friu-B,Bacino montano del Tagliamento e del Torre

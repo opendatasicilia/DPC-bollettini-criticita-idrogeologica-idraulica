@@ -158,14 +158,31 @@ Umbr-D,Nera - Corno
 Umbr-E,Trasimeno - Nestore
 Umbr-F,Chiani - Paglia
 VDAo-A,"Valle d?Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche"
-VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gressoney"
+VDAo-B,"Bassa Valle d?Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d?Ayas, Valle di Champorcher e Valle di Gresso"
 VDAo-C,"Valle di Cogne, Valsavarenche e Valle di Rhêmes"
 VDAo-D,"Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne"
-Vene-A,Alto Piave
-Vene-B,Alto Brenta-Bacchiglione-Alpone
-Vene-C,Adige-Garda e monti Lessini
-Vene-D,"Po, Fissero-Tartaro-Canalbianco e Basso Adige"
-Vene-E,Basso Brenta-Bacchiglione e Fratta Gorzone
-Vene-F,"Basso Piave, Sile e Bacino scolante in laguna"
-Vene-G,"Livenza, Lemene e Tagliamento"
-Vene-H,Piave pedemontano
+Vene-A1,"Dolomiti orientali: Cadore, Comelico"
+Vene-A2,"Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite"
+Vene-B1,Feltrino - Bacino Cismon
+Vene-B2,Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno
+Vene-B3,Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone
+Vene-C1,"Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige"
+Vene-C2,Lessinia meridionale e alta pianura veronese - Bacino Adige
+Vene-D1,"Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+Vene-D2,"Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige"
+Vene-D3,"Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige"
+Vene-E1,"Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna"
+Vene-E2,Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone
+Vene-E3,"Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna"
+Vene-E4,"Costa centro meridionale - Bacini Brenta Bacchiglione, Fratta-Gorzone, Adige, Scolante in Laguna"
+Vene-E5,"Pianura centro meridionale - Bacini Bacchiglione Fratta-Gorzone, Adige, Scolante in Laguna, Fissero Tartaro Canalbianco"
+Vene-F1,"Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+Vene-F2,"Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave"
+Vene-G1,"Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave"
+Vene-G2,"Costa orientale Bacini Livenza, Lemene, Tagliamento, Pianura tra Livenza e Piave"
+Vene-H1,Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave
+Vene-H2,Alpago Cansiglio - Bacino Piave
+Vene-H3,Prealpi trevigiane - Bacino Piave
+Vene-H4,"Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna"
+Vene-H5,Prealpi trevigiane - Bacino Livenza
+Vene-H6,Alta pianura trevigiana orientale - Bacino Livenza
