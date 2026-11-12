@@ -1,6 +1,6 @@
 name: Bollettini DPC
 
-on: 
+on:
   workflow_dispatch:
   schedule:
     - cron: '0 */4 * * *'
@@ -8,19 +8,22 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
           cache: 'pip'
-          
+
       - name: Installa dependencies
         run: pip install -r requirements.txt
-        
+
       - name: Scarica i dati della Protezione Civile e li trasforma in CSV
         run: python script.py
-        
+
       - name: Commit e Push se ci sono dati nuovi
         run: |-
           git config user.name "automatico"
@@ -28,4 +31,4 @@ jobs:
           git add -A
           timestamp=$(date --iso-8601=seconds)
           git commit -m "Aggiornamento bollettini DPC : ${timestamp}" || exit 0
-          git push        
+          git push
