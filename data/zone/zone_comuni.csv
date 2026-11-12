@@ -163,7 +163,7 @@ pro_com_t,comune_nome,provincia_nome,provincia_sigla,regione_nome,zona_codice,zo
 001165,Noasca,Torino,TO,Piemonte,Piem-C,"Valli Orco, Lanzo e Sangone"
 001166,Nole,Torino,TO,Piemonte,Piem-L,Pianura Torinese e Colline
 001167,Nomaglio,Torino,TO,Piemonte,Piem-B,"Val Sesia, Cervo e Chiusella"
-001168,None,Torino,TO,Piemonte,Piem-L,Pianura Torinese e Colline
+001168,,Torino,TO,Piemonte,Piem-L,Pianura Torinese e Colline
 001169,Novalesa,Torino,TO,Piemonte,Piem-C,"Valli Orco, Lanzo e Sangone"
 001170,Oglianico,Torino,TO,Piemonte,Piem-L,Pianura Torinese e Colline
 001171,Orbassano,Torino,TO,Piemonte,Piem-L,Pianura Torinese e Colline
